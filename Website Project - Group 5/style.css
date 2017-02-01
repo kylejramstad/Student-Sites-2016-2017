@@ -1,0 +1,89 @@
+h1 {
+    color:yellow;
+    text-align:center;
+    font-family:bold;
+    font-size:70px;
+}
+#page-title {
+    color:red;
+    text-align:center;
+}
+#header {
+    background-color:grey;
+    width:100%;
+    height:175px;
+    border: inset yellow;
+}
+body {
+    background-image: url("Blue.jpeg");
+}
+.home {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width:100px;
+    color:yellow;
+}
+.line {
+    display:block;
+    color:yellow;
+    padding:8px 16px;
+    background-color:gray;
+}
+.line:hover {
+    background-color: #555;
+    color: yellow;
+}
+#navigation {
+    background-color:gray;
+    width:100px;
+    border:solid yellow;
+}
+#bo3-homepage {
+    border: outset orange;
+    display: block;
+    margin:0 auto;
+    float:center;
+}
+table {
+    width:100%;
+}
+#Fifa-17-yellow {
+    margin:left;
+}
+#home-comments {
+    display:block;
+    background-color:gray;
+    margin:30px;
+    border:ridge yellow;
+    float:right;
+}
+#cs-list {
+    font-size:35px;
+}
+#coming-soon {
+    color:blue;
+}
+
+a {
+    color:black
+}
+#category_links{
+    background-color:gray;
+}
+#category_links:hover{
+    background-color:#555;
+}
+
+
+
+  color:purple;  
+}
+    
+}p
+
+
+
+
+
+

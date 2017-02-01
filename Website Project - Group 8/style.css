@@ -1,0 +1,27 @@
+h1 {
+    text-align:center;color:red;margin-top:25px;font-size:3em;
+}
+
+p {font-size:1.2em;}
+
+
+.Head {border:black solid 1px;background-image: url("HeadBG.jpg");background-position:90% 15%;height:100px;}
+
+ul {list-style-type:none;position:relative;display:inline-block;text-align:center;margin-left:30px;width:100%;}
+
+.Navi {margin-top:10px;display:block;margin-right:100%;margin-left:0%;width:100%;}
+
+
+li {display:inline-block;border:black solid 2px;margin-left:10px;padding:10px;border-radius:3px;position:relative;background-color:white;font-size:20px;margin-top:2px;width:50%px;}
+
+li:hover {background-color:#ededed;}
+
+.ParagraphLeft {border:black solid 2px;width:55%;background-color:white;padding-left:10px;padding-right:10px;float:left;margin:10px 20px 20px 20px;clear:right;border-radius:3px;display:inline-block;}
+
+.ParagraphRight {border:black solid 2px;width:35%;background-color:white;padding:10px 10px 10px 10px;float:right;margin:10px 20px 20px 20px;overflow:scroll;border-radius:3px;display:inline-block;position:absolute;margin-right:1px;}
+
+body {background-color:silver;
+   /* background-image: url("BodyBG.jpg");background-size:auto 100%;*/
+}
+
+a {text-decoration:none;color:black;display:block;height:100%;width:100%;}
