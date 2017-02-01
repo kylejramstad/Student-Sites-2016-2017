@@ -1,0 +1,72 @@
+.komics {
+color: white;
+font-size: 12em;
+font-weight: bold;
+font-family: Helvetica;
+text-shadow: 0 1px 0 blue, 0 2px 0 blue, 0 3px 0 blue, 0 4px 0 blue, 0 5px 0 #aaa, 0 6px 1px rgba(0,0,0,.1), 0 0 5px rgba(0,0,0,.1), 0 1px 3px rgba(0,0,0,.3), 0 3px 5px rgba(0,0,0,.2), 0 5px 10px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.2), 0 20px 20px rgba(0,0,0,.15);
+}
+
+.komics {
+  text-align: center;
+}
+
+body { background-color:black;
+background-image:
+radial-gradient(white, rgba(255,255,255,.2) 2px, transparent 40px),
+radial-gradient(white, rgba(255,255,255,.15) 1px, transparent 30px),
+radial-gradient(white, rgba(255,255,255,.1) 2px, transparent 40px),
+radial-gradient(rgba(255,255,255,.4), rgba(255,255,255,.1) 2px, transparent 30px);
+background-size: 550px 550px, 350px 350px, 250px 250px, 150px 150px; 
+    background-position: 0 0, 40px 60px, 130px 270px, 70px 100px; }
+    
+    
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 20;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 20px 30px;
+    text-decoration: none;
+}
+
+a:hover:not(.active) {
+    background-color: black;
+}
+
+.image1 img { height:350px;
+          width:250px;
+          position:relative;
+          float:left;
+         }
+.itext {float:right;
+
+}
+
+.image2 img { height:350px;
+              width:250px;
+               position:relative;
+    float:left;
+}
+ 
+p1{ color:white;
+font-size:30px;
+float:right;
+
+}
+
+    
+
+h1 { color:white;
+    
+}

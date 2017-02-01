@@ -1,0 +1,55 @@
+h1 {
+    color: red;
+    border-style:solid;
+    border-color:black;
+}
+
+img {
+    border-style:solid;
+    border-color:black;
+}
+
+p {
+   font-family:verdana; 
+   border-bottom:solid;
+   border-color:black;
+}
+
+body {
+    border-style:solid;
+    border-color:red;
+    background-color:rgb(128,0,0);
+}
+
+u1 {
+    list-style-type:none;
+    margin-top:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#FF0000;
+}
+li{
+    text-align:left;
+    border-bottom:1px solid red;
+    float:left;
+    list-style-type:none;
+}
+li a{
+    display:block;
+    color:#000;
+    padding:14px 16px;
+    text-decoration:none;
+}
+li a:hover{
+    background-color:white;
+    color:black;
+}
+
+
+
+div  {
+    background-color:orange;
+}
+   
+
+

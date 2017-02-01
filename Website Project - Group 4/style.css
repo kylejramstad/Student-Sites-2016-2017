@@ -1,0 +1,28 @@
+
+h1{text-align:center;  
+        color:purple;
+     } 
+     ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color:#42EDC9;
+    width:200px;
+    float:right;
+    border: 1px solid black;
+    
+}
+li a {
+    display: block;
+    text-decoration:none;
+    padding: 2px;
+    color:#000;
+    border:1px solid black;
+    text-align:center;
+}
+
+li a:hover { 
+    background-color:#970C19;
+    color:orange;}
+    h2 {color:#5096ff;}
+    h3{color:#5096ff;}
